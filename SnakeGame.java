@@ -1,3 +1,4 @@
+/*Snake Game*/ 
 package snakegame;
 
 import javax.swing.*;
