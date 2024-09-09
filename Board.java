@@ -1,3 +1,4 @@
+/*Board*/ 
 package snakegame;
 
 import javax.swing.*;
